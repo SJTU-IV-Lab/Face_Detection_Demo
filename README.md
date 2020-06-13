@@ -9,7 +9,7 @@ Automatic face detection and alarm project based on monitoring system
 2020/06/13 Upload UI files;
 
 ## About
-* Source code will be released;
+* Source code will be released gradually;
 * How to support the author: Click on star button in the upper right corner is the maximum support of the author；
 * If you have questions or discuss the face detection algorithm model, please submit an issue,thanks;
 * If you have any suggestions, please DO NOT hesitate to contact!
